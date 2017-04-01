@@ -3887,7 +3887,6 @@ span.page_nav{margin-top:15px;overflow:hidden;clear:both;display:block;text-alig
 .block.hotest .block-body .list-film{margin:0;}
 .block.hotest .block-body .list-film .item{margin:0;height:330px;}
 .block.hotest .block-body .list-film .item .name{color:#58b95b;text-shadow:none;}
-.block.hotest .block-body .list-film .item dfn{color:#7B7B7B;text-shadow:0 0 0 rgba(0,0,0,.4);}
 .block.hotest .block-foot{padding-bottom:10px;}
 .filters{margin-bottom:10px;}
 .filters .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn){width:auto;}
